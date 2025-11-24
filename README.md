@@ -17,7 +17,7 @@ I’m a bilingual Data Analyst with experience in data visualization, process au
 ## 📊 Featured Projects
 | Project | Description | Technologies | Link |
 |----------|--------------|---------------|------|
-| **Telecom Churn Analysis** | Customer churn prediction and retention analysis | Python, Pandas, Power BI | [View Repo](https://github.com/kutusho/telecom_churn) |
+| **Telecom Churn Analysis** | Customer churn prediction and retention analysis | Python, Pandas, Power BI | [View Repo](https://github.com/kutusho/Sprint-10-Eficiencia-Operativa-y-Predicci-n-de-Churn) |
 | **Showz Marketing Analytics** | Digital marketing campaign performance analysis | SQL, Tableau, Python | [View Repo](https://github.com/kutusho/showz-marketing) |
 | **CallMeMaybe A/B Test** | A/B testing and retention insights | Python, SciPy, Matplotlib | [View Repo](https://github.com/kutusho/ab-test-callmemaybe) |
 
