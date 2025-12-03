@@ -1,12 +1,17 @@
+<p align="center">
+  <img src="imagegithub.png" alt="Banner Data Analytics" width="100%">
+</p>
+
 # 👋 Hi! I’m Iván Díaz  
 
 🎯 **Data Analyst | Python • SQL • Power BI • Tableau**
 
-I’m a bilingual Data Analyst with experience in data visualization, process automation, and data-driven decision-making. I’m passionate about using technology to optimize workflows and tell compelling stories with data.  
+I’m a bilingual Data Analyst with experience in data visualization, process automation, and data-driven decision-making.  
+I’m passionate about using technology to optimize workflows and tell compelling stories with data.
 
 ---
 
-## 🧠 Technologies I Use
+## 🧠 Technologies I Use  
 - **Languages:** Python, SQL  
 - **BI Tools:** Power BI, Tableau  
 - **Libraries:** Pandas, Matplotlib, Seaborn, NumPy  
@@ -15,14 +20,15 @@ I’m a bilingual Data Analyst with experience in data visualization, process au
 ---
 
 ## 📊 Featured Projects
+
 | Project | Description | Technologies | Link |
-|----------|--------------|---------------|------|
+|--------|-------------|--------------|------|
 | **Telecom Churn Analysis** | Customer churn prediction and retention analysis | Python, Pandas, Power BI | [View Repo](https://github.com/kutusho/Sprint-10-Eficiencia-Operativa-y-Predicci-n-de-Churn) |
 | **Showz Marketing Analytics** | Digital marketing campaign performance analysis | SQL, Tableau, Python | [View Repo](https://github.com/kutusho/Sprint-9-An-lisis-de-Datos-con-SQL) |
 | **CallMeMaybe A/B Test** | A/B testing and retention insights | Python, SciPy, Matplotlib | [View Repo](https://github.com/kutusho/Sprint-8-An-lisis-de-A-B-Testing-y-Validaci-n-de-Hip-tesis) |
 
 ---
 
-## 📫 Contact
-📧 ivandiaztpv@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ivan-de-jesus-diaz-navarro-37296b297/)  
+## 📫 Contact  
+📧 **ivandiaztpv@gmail.com**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/ivan-de-jesus-diaz-navarro-37296b297/)**  
